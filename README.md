@@ -1,5 +1,5 @@
 # A Map of History of International Borders
-[Live](https://github.com/BhCh7051/Changing-International-Borders/deployments/activity_log?environment=github-pages)
+[Live](https://bhch7051.github.io/Changing-International-Borders/#2/29/25)
 
 This is an interactive map visualising the history of international borders. The data is from [CShapes](https://icr.ethz.ch/data/cshapes/)
 
